@@ -11,7 +11,7 @@ This is a program to bach remove the background of multiple images using Photosh
 	- First, you need to get the path from the two folders that you created:  
 		- Path 1. Is the path to Folder 1. Exmaple: "/User/name/in/"  
 		- Path 2. Is the path to Folder 2. Exmaple: "/User/name/out/"  
-			- Copy and paste the past the paths to their respective place in RemoveBackground.jsx    
+			- Copy and paste the paths to their respective place in RemoveBackground.jsx    
 
  	- Second, make sure you define the R, G, and B values for the new background color.   
  	- Finally, save the changes.  

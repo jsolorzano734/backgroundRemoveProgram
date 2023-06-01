@@ -3,7 +3,7 @@ This program utilizes Photoshop to efficiently remove the background from multip
 
 
 # Usage   
-* Download the [RemoveBackground.jsx](https://github.com/jsolorzano734/backgroundRemoveProgram/blob/main/RemoveBackground.jsx) file to you computer.  
+* Download the [RemoveBackground.jsx](https://github.com/jsolorzano734/backgroundRemoveProgram/blob/main/RemoveBackground.jsx) file to your computer.  
 * Create two folders 
 	- Folder 1 (where you store the images with the current background).  
 	- Folder 2 (where you store the images with the new background).  

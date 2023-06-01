@@ -13,7 +13,10 @@ This is a program to bach remove the background of multiple images using Photosh
 		- Path 2. Is the path to Folder 2. Exmaple: "/User/name/out/"  
 			- Copy and paste the paths to their respective place in RemoveBackground.jsx    
 
- 	- Second, make sure you define the R, G, and B values for the new background color.   
+ 	- Second:
+ 		- Define the image quality for saving as JPG.  
+ 		- Define the DPI quality for saving.  
+ 		- Define the R, G, and B values for the new background color.    
  	- Finally, save the changes.  
    
 * Open Photoshop.  

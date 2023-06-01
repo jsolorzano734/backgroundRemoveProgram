@@ -6,7 +6,7 @@ This is a program to bach remove the background of multiple images using Photosh
 * Download the [RemoveBackground.jsx](https://github.com/jsolorzano734/backgroundRemoveProgram/blob/main/RemoveBackground.jsx) file to you computer.  
 * Create two folders 
 	- Folder 1 (where you store the images with the current background).  
-	- Folder 2 (where you store the images with the images with the removed background).  
+	- Folder 2 (where you store the images with the new background).  
  - Open the RemoveBackground.jsx file and do the following:  
 	- First, you need to get the path from the two folders that you created:  
 		- Path 1. Is the path to Folder 1. Exmaple: "/User/name/in/"  

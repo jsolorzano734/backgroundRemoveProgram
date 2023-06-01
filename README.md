@@ -1,5 +1,5 @@
 # backgroundRemoveProgram
-This program utilizes Photoshop to efficiently remove the background from multiple images in batches. Improved code.
+This program utilizes Photoshop to efficiently remove the background from multiple images. Improved code.
 
 
 # Usage   

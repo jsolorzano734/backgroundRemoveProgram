@@ -6,7 +6,7 @@
 
 // Define the source folder path where your pictures are located
 // Example: /Users/test/in/
-var sourceFolder = Folder("/Users/josesolorzano/Google Drive/My Drive/lsuResearch/MasterPaperChemLSU/backgroudRemoveTests/in/"); 
+var sourceFolder = Folder("insert path 1 within the quotes"); 
 
 // Comment: Check if the source folder exists and retrieve the list of files in the folder
 if (sourceFolder != null)
@@ -46,7 +46,7 @@ for (var a = 0; a < fileList.length; a++) {
 
     // Define the save folder path where you want the files saved
     // Example: /Users/test/out/
-    var saveFolder = new Folder("/Users/josesolorzano/Google Drive/My Drive/lsuResearch/MasterPaperChemLSU/backgroudRemoveTests/out/");
+    var saveFolder = new Folder("insert path 2 within the quotes");
 
     // Get the filename of the current document without the file extension
     var fileName = app.activeDocument.name.replace(/\.[^\.]+$/, ''); 

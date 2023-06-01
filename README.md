@@ -23,4 +23,4 @@ This is a program to bach remove the background of multiple images using Photosh
 		- Now find the location of the RemoveBackground.jsx file    
 			- Click the file and hit the open button that appears in the window   
    
-* The program will store the images in the path 2. 
+* The program will store the images in Path 2. 
